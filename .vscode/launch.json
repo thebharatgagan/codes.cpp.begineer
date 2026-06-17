@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/bharatgagan/Desktop/VSCode/Github/codes.cpp.begineer",
+      "program": "/Users/bharatgagan/Desktop/VSCode/Github/codes.cpp.begineer/build/Debug/outDebug"
+    }
+  ]
+}
